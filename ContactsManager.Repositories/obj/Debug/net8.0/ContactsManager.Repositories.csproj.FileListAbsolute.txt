@@ -1,0 +1,15 @@
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\bin\Debug\net8.0\ContactsManager.Repositories.deps.json
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\bin\Debug\net8.0\ContactsManager.Repositories.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\bin\Debug\net8.0\ContactsManager.Repositories.pdb
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\bin\Debug\net8.0\ContactsManager.Shared.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\bin\Debug\net8.0\ContactsManager.Shared.pdb
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.csproj.AssemblyReference.cache
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.AssemblyInfoInputs.cache
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.AssemblyInfo.cs
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\Contacts.EDB08A72.Up2Date
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\refint\ContactsManager.Repositories.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ContactsManager.Repositories.pdb
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Repositories\obj\Debug\net8.0\ref\ContactsManager.Repositories.dll

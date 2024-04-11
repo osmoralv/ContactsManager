@@ -1,0 +1,11 @@
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\bin\Debug\net8.0\ContactsManager.Shared.deps.json
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\bin\Debug\net8.0\ContactsManager.Shared.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\bin\Debug\net8.0\ContactsManager.Shared.pdb
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ContactsManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ContactsManager.Shared.AssemblyInfoInputs.cache
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ContactsManager.Shared.AssemblyInfo.cs
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ContactsManager.Shared.csproj.CoreCompileInputs.cache
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ContactsManager.Shared.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\refint\ContactsManager.Shared.dll
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ContactsManager.Shared.pdb
+C:\Users\omora\CodeProjects\DotNet\ContactsManager\ContactsManager.Shared\obj\Debug\net8.0\ref\ContactsManager.Shared.dll

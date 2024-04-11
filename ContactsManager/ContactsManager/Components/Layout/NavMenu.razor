@@ -1,0 +1,24 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">Contacts Manager</a>
+    </div>
+</div>
+
+<input type="checkbox" title="Navigation menu" class="navbar-toggler" />
+
+<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"><i class="bi bi-person-lines-fill"></i></span> Contacts
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="addcontact">
+                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Add Contact
+            </NavLink>
+        </div>
+    </nav>
+</div>
+

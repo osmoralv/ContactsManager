@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\ContactsManager\\ContactsManager\\ContactsManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ContactsManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ContactsManager.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\ContactsManager\\ContactsManager\\ContactsManager\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\ContactsManager\\ContactsManager\\ContactsManager\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\ContactsManager\\ContactsManager\\ContactsManager\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\omora\\CodeProjects\\DotNet\\ContactsManager\\ContactsManager\\ContactsManager\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ContactsManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ContactsManager.props",
+      "PackagePath": "build\\ContactsManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ContactsManager.props",
+      "PackagePath": "buildMultiTargeting\\ContactsManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ContactsManager.props",
+      "PackagePath": "buildTransitive\\ContactsManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

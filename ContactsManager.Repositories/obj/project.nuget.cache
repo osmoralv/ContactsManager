@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3n0buYVMkJTAKU03RfM1OcCSpgzUsUW9CPbx1h8A8lfdjobDKBsOWBkroKMlPXY8st63DDol2V6aQyTTX36aog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omora\\CodeProjects\\DotNet\\ContactsManager\\ContactsManager.Repositories\\ContactsManager.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omora\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
